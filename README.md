@@ -1,3 +1,3 @@
 # Lorti-Ui
-Just a upload of old addon, its simple black border to defaul blizzard UI
+Just a upload of old addon, its simple black border to default blizzard UI
 Unzip in Addons Folder
